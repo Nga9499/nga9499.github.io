@@ -1,5 +1,3 @@
-
-
 <?php
 if (isset($_POST["submit"])) {
         // echo "<pre>";
@@ -11,8 +9,8 @@ if (isset($_POST["submit"])) {
     $repassword=md5($_POST['repassword']);
     $phone = $_POST["phone"];
     $address = $_POST["address"];
-    
     $gioitinh = $_POST["gioitinh"];
+        
 
 
     $sqlcheckuser = "SELECT * FROM tbl_user WHERE username ='$username'";
