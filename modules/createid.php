@@ -18,6 +18,12 @@ if (isset($_POST["submit"])) {
     $sqlcheckuser = "SELECT * FROM tbl_user WHERE username ='$username'";
     $checkResult = mysqli_query($conn, $sqlcheckuser ) or die("Loi truy van1");
     $numUserName = mysqli_num_rows($checkResult);
+        
+    $servername="localhost";
+    $username="id15552313_username";
+    $password="Password_1234";
+    $database="id15552313_databasename";
+    $conn = mysqli_connect($servername, $username, $password,$database);
 
     $sqlcheckEmail = "SELECT * FROM tbl_user WHERE email ='$email'";
     $checkResultEmail = mysqli_query($conn, $sqlcheckEmail ) or die("Loi truy van2");
