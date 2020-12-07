@@ -18,6 +18,12 @@
 		<div class="col-md-2 clearfix">
 			<img style="width: 180px; height: 60px;" src="upload/imgwb/mc.PNG" alt="">
 		</div>
+			<div class="col-md-2 clearfix">
+			<img style="width: 180px; height: 60px;" src="upload/imgwb/mc.png" alt="">
+		</div>
+		<div class="col-md-2 clearfix">
+			<img style="width: 180px; height: 60px;" src="upload/imgwb/logo_samsung.png" alt="">
+		</div>
 		
 	</div>
 </div>
