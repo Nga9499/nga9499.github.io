@@ -7,13 +7,31 @@ Trang web có các chức năng cơ bản như đăng nhập, đăng ký thành 
        <br>
        +Tạo CSDL có tên là quanlymaytinhxachtay.sql trên PHP MyAdmin: http://localhost/phpmyadmin// 
        <br>
-       +Tạo bảng trong CSDL ta được bảng như sau:
+       +Tạo các bảng trong CSDL như sau:
        <br>
-       <img src="upload/imgwb/csdl.png">
+       <img src="upload/imgwb/user.png">
+       <br>
+       <img src="upload/imgwb/sp.png">
+       <br>
+       <img src="upload/imgwb/hangsx.png">
+       <br>
+       <img src="upload/imgwb/order.png">
+       <br>
+       <img src="upload/imgwb/order2.png">
+       <br>
+       <img src="upload/imgwb/tin.png">
+       <br>
+       <img src="upload/imgwb/slide.png">
+       <br>
+       <img src="upload/imgwb/loaisp.png">
+       <br>
+       Quan hệ giữa các bảng với nhau:
+       <br>
+       <img src="upload/imgwb/qhb.png">
        <br>
        Sau đó ta chèn dữ liệu cho các bảng
        
 -Bước 2: Xây dựng chương trình: Trang web được viết trên Sublime Text, ngoài ra có thể viết trên một số phần mềm để xây dựng trang web khác như Dreamweaver, PHPdesigner,...
-
-# https://banlaptopchinhhang.000webhostapp.com/
+### 3. Link web demo: 
+https://banlaptopchinhhang.000webhostapp.com/
 
