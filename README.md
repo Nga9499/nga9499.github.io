@@ -8,7 +8,7 @@ Trang web có các chức năng cơ bản như đăng nhập, đăng ký thành 
        <br>
        +Tạo bảng trong CSDL như sau:
        <br>
-       <img src="upload/imgwb/csdl.jpg">
+       <img src="upload/imgwb/csdl.png">
        <br>
        Sau đó ta chèn dữ liệu cho các bảng:
        
