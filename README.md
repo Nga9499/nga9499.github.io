@@ -3,6 +3,14 @@ Tổng quan về trang web: Trang web được xây dựng bằng ngôn  ngữ P
 Trang web có các chức năng cơ bản như đăng nhập, đăng ký thành viên, phân quyền chức năng giữa khách hàng và admin. Admin là người có quyền thao tác trên trang như thêm, sửa, xóa, cập nhật sản phẩm cũng như khách hàng. 
 ### 2.Cài đặt:
 -Bước 1: Tạo database 
+       <br>
+       +Tạo CSDL có tên là quanlymaytinhxachtay.sql trên PHP MyAdmin: http://localhost/phpmyadmin// 
+       <br>
+       +Tạo bảng trong CSDL như sau:
+       <br>
+       <img src="upload/imgwb/csdl.jpg">
+       <br>
+       Sau đó ta chèn dữ liệu cho các bảng:
        
 
 # https://banlaptopchinhhang.000webhostapp.com/
