@@ -33,5 +33,9 @@ Trang web có các chức năng cơ bản như đăng nhập, đăng ký thành 
        
 -Bước 2: Xây dựng chương trình: Trang web được viết trên Sublime Text, ngoài ra có thể viết trên một số phần mềm để xây dựng trang web khác như Dreamweaver, PHPdesigner,...
 ### 3. Link web demo: 
-https://banlaptopchinhhang.000webhostapp.com/
+Link trang web: https://banlaptopchinhhang.000webhostapp.com/
+<br>
+Giao diện màn hình chính 
+<br>
+<img src="upload/imgwb/main1.png">
 
